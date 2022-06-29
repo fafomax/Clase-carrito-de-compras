@@ -1,4 +1,3 @@
-
 # Carrito de compras
 
 Ejercicios dados en clases:
